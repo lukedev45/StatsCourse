@@ -7,8 +7,8 @@ This repo contains two Jupyter notebooks: one for exercises and one with full so
 
 ## 📂 Contents
 
-- `stats_basics_exercises.ipynb` — guided notebook with explanations, prompts, and exercises.  
-- `stats_basics_solutions.ipynb` — full solutions notebook with worked-out answers.  
+- `Demonstrations` — guided notebook with explanations, prompts, and exercises.  
+- `Solutions and Answers` — full solutions notebook with worked-out answers.  
 - `requirements.txt` — minimal dependencies to run the notebooks.  
 
 ---
