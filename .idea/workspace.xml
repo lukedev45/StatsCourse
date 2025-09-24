@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Created seperate directories for the solutions and the demos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions and Answers/Statistics Basics/stats_basics_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Answers/1. Statistics Basics/stats_basics_solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Added more notebooks for distributions and random numbers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1758697252993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added more notebooks for distributions and random numbers">
+      <option name="closed" value="true" />
+      <created>1758723169783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758723169783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created seperate directories for the solutions and the demos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created seperate directories for the solutions and the demos" />
+    <MESSAGE value="Added more notebooks for distributions and random numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more notebooks for distributions and random numbers" />
   </component>
 </project>
