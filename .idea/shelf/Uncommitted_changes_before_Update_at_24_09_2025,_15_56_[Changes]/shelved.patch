@@ -1,0 +1,50 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bf275d3a-b1a5-438e-8633-8ea6d4ead1e9\" name=\"Changes\" comment=\"Added more notebooks for distributions and random numbers\">\n      <change afterPath=\"$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_distributions_QA.ipynb\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_disttributions_Answers.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n        <option value=\"Jupyter Notebook\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;lukedev45&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/lukedev45/StatsCourse.git&quot;,\n    &quot;accountId&quot;: &quot;823a80d6-f03c-4e84-95ca-b85e5093db5e&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"336Za6HRy5BngC7FiWxS0V5GbFZ\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"Python.Create notebook.executor\": \"Run\",\n    \"Python.Generate More Distributions and the Central Limit Theorem.executor\": \"Run\",\n    \"Python.Generate Random Numbers and Probability.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"last_opened_file_path\": \"/home/luke/PycharmProjects/StatsCourse\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Demonstartion Books/Generation Scripts\" />\n      <recent name=\"$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability\" />\n      <recent name=\"$PROJECT_DIR$/Demonstartion Books/2. Random Number and Probability\" />\n      <recent name=\"$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"bf275d3a-b1a5-438e-8633-8ea6d4ead1e9\" name=\"Changes\" comment=\"\" />\n      <created>1758639542406</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1758639542406</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Created seperate directories for the solutions and the demos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1758697252993</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1758697252993</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Added more notebooks for distributions and random numbers\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1758723169783</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1758723169783</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Added more notebooks for distributions and random numbers\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1758723182314</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1758723182314</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Created seperate directories for the solutions and the demos\" />\n    <MESSAGE value=\"Added more notebooks for distributions and random numbers\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added more notebooks for distributions and random numbers\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b42b8848956a6fe4b4ece49ad8bc721d7534c422)
++++ b/.idea/workspace.xml	(date 1758725759457)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Added more notebooks for distributions and random numbers">
+-      <change afterPath="$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_distributions_QA.ipynb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_disttributions_Answers.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Make notebooks for clt distributions" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -106,7 +102,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1758723182314</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Make notebooks for clt distributions">
++      <option name="closed" value="true" />
++      <created>1758725759146</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1758725759146</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -123,6 +127,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Created seperate directories for the solutions and the demos" />
+     <MESSAGE value="Added more notebooks for distributions and random numbers" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Added more notebooks for distributions and random numbers" />
++    <MESSAGE value="Make notebooks for clt distributions" />
++    <option name="LAST_COMMIT_MESSAGE" value="Make notebooks for clt distributions" />
+   </component>
+ </project>
+\ No newline at end of file
