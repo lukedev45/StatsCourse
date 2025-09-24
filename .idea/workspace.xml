@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Added more notebooks for distributions and random numbers">
-      <change afterPath="$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_distributions_QA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demonstartion Books/Generation Scripts/clt_disttributions_Answers.ipynb" afterDir="false" />
+    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Make notebooks for clt distributions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Create notebook.executor": "Run",
-    "Python.Generate More Distributions and the Central Limit Theorem.executor": "Run",
-    "Python.Generate Random Numbers and Probability.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/luke/PycharmProjects/StatsCourse"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Create notebook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate More Distributions and the Central Limit Theorem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate Random Numbers and Probability.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luke/PycharmProjects/StatsCourse&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Solutions and Answers/3. CLT Distributions" />
+      <recent name="$PROJECT_DIR$/Demonstartion Books/3. CLT Distributions" />
       <recent name="$PROJECT_DIR$/Demonstartion Books/Generation Scripts" />
       <recent name="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability" />
       <recent name="$PROJECT_DIR$/Demonstartion Books/2. Random Number and Probability" />
-      <recent name="$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758723182314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Make notebooks for clt distributions">
+      <option name="closed" value="true" />
+      <created>1758725759146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758725759146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created seperate directories for the solutions and the demos" />
     <MESSAGE value="Added more notebooks for distributions and random numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more notebooks for distributions and random numbers" />
+    <MESSAGE value="Make notebooks for clt distributions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make notebooks for clt distributions" />
   </component>
 </project>
