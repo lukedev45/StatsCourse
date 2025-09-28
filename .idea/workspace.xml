@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Took the answer out of prob. exercises">
-      <change beforePath="$PROJECT_DIR$/Demonstartion Books/3. CLT Distributions/clt_distributions_QA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Demonstartion Books/3. CLT Distributions/clt_distributions_QA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StatsCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StatsCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics/stats_basics_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics/stats_basics_exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability/probability_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability/probability_solutions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/lukedev45/StatsCourse.git&quot;,
-    &quot;accountId&quot;: &quot;823a80d6-f03c-4e84-95ca-b85e5093db5e&quot;
+    &quot;accountId&quot;: &quot;f250adde-b37e-4d3b-b4c6-6c5474ce77ee&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
