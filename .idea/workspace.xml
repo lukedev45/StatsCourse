@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Took the answer out of prob. exercises">
-      <change beforePath="$PROJECT_DIR$/.idea/StatsCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StatsCourse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics/stats_basics_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Demonstartion Books/1. Statistics Basics/stats_basics_exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability/probability_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability/probability_solutions.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="bf275d3a-b1a5-438e-8633-8ea6d4ead1e9" name="Changes" comment="Add video notebooks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +56,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/From Videos" />
       <recent name="$PROJECT_DIR$/Solutions and Answers/3. CLT Distributions" />
       <recent name="$PROJECT_DIR$/Demonstartion Books/3. CLT Distributions" />
       <recent name="$PROJECT_DIR$/Demonstartion Books/Generation Scripts" />
       <recent name="$PROJECT_DIR$/Solutions and Answers/2. Random Number and Probability" />
-      <recent name="$PROJECT_DIR$/Demonstartion Books/2. Random Number and Probability" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -124,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758726121594</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add video notebooks">
+      <option name="closed" value="true" />
+      <created>1759048847605</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759048847605</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +145,7 @@
     <MESSAGE value="Added more notebooks for distributions and random numbers" />
     <MESSAGE value="Make notebooks for clt distributions" />
     <MESSAGE value="Took the answer out of prob. exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Took the answer out of prob. exercises" />
+    <MESSAGE value="Add video notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add video notebooks" />
   </component>
 </project>
